@@ -10,7 +10,7 @@
 * 5 cups chicken stock
 * 28-oz can butter beans
 * 2 or 3 cups leftover pulled pork
-* ½ or more Carolina-style barbecue sauce or apple cider vinegar, to taste
+* ½ cup or more Carolina-style barbecue sauce or apple cider vinegar, to taste
 * Salt
 * Pepper
 
