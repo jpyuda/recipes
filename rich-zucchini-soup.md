@@ -21,4 +21,4 @@
 
 5. Make sure the soup is not boiling, and then slowly add the egg mixture, stirring constantly. Taste, adjust seasoning, garnish with the parsley and cheese, and serve.
 
-_Adapted from [How to Cook Everything Vegetarian by Mark Bittman](http://www.amazon.com/gp/product/0764524836/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0764524836&linkCode=as2&tag=yudaorg-20)_
+_`Adapted from [How to Cook Everything Vegetarian by Mark Bittman](http://www.amazon.com/gp/product/0764524836/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0764524836&linkCode=as2&tag=yudaorg-20)_
