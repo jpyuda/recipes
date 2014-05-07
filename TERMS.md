@@ -1,6 +1,4 @@
-As a work of the United States Government, this package is in the
-public domain within the United States. Additionally, we waive
-copyright and related rights in the work worldwide through the CC0 1.0
+I waive copyright and related rights in the work worldwide through the CC0 1.0
 Universal public domain dedication.
 
 Software source code previously released under an open source license and then

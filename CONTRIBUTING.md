@@ -5,7 +5,7 @@ model:
 2. Create a branch and make your changes.
 3. Test the changes locally/in your personal fork.
 4. Submit a pull request to open a discussion about your proposed changes.
-5. We'll talk about it and decide to merge or request additional changes.
+5. I'll make your recipe and decide to merge or request additional changes.
 
 ---
 
