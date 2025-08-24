@@ -16,7 +16,7 @@ title: Brunswick Stew
 * 5 cups chicken stock
 * 28-oz can butter beans[^3]
 * 2 or 3 cups leftover pulled pork[^4]
-* ½ or more Carolina-style barbecue sauce[^5], to taste
+* ½ cup or more Carolina-style barbecue sauce[^5], to taste
 * Salt
 * Pepper
 
